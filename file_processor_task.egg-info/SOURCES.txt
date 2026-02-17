@@ -1,8 +1,0 @@
-README.md
-setup.py
-file_processor_task/__init__.py
-file_processor_task/main.py
-file_processor_task.egg-info/PKG-INFO
-file_processor_task.egg-info/SOURCES.txt
-file_processor_task.egg-info/dependency_links.txt
-file_processor_task.egg-info/top_level.txt
